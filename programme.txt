@@ -1,0 +1,23 @@
+debut :
+var A : Entier ;
+var B : Reel ;
+Ecrire("entrer une valeur");
+Lire(A);
+Lire(B);
+
+Si ( A < B ) Alors
+Ecrire(B);
+Ecrire("est superieur");
+Ecrire(A);
+Ecrire("est inferieur");
+
+Sinon
+Ecrire(A);
+Ecrire("est superieur");
+Ecrire(B);
+Ecrire("est inferieur");
+
+FinSi
+B = A;
+
+Fin .

@@ -1,0 +1,68 @@
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 2) : Instruction inconnue ou incorrecte.
+Erreur Lexicale en ligne 8 : 'azeaze' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 8 : 'azeza' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique | Ligne 8 | Vous avez oubliez 'FinSi'
+Erreur Lexicale en ligne 7 : 'azeza' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Lexicale (ligne 7) : 'azeza' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Lexicale (ligne 12) : 'aezae' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 12) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique | Ligne 8 | Vous avez oubliez 'FinSi'
+Erreur Lexicale (ligne 7) : 'aze' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale (ligne 6) : 'azeaz' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 6) : Instruction inconnue ou incorrecte.
+Erreur Lexicale (ligne 7) : 'az' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale (ligne 7) : 'az' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Lexicale (ligne 7) : 'Baze' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique | Ligne 12 | Vous avez oubliez 'FinSi'
+Erreur Lexicale (ligne 2) : 'A:' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale (ligne 3) : 'B:' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique | Ligne 2 | Vous avez oubliez ':'
+Erreur Syntaxique | Ligne 8 | Contenu dans Lire ou Ecrire non recconue ou incorrecte
+Erreur Syntaxique | Ligne 10 | Contenu dans Lire ou Ecrire non recconue ou incorrecte
+Erreur Lexicale (ligne 19) : 'aze' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique | Ligne 19 | Vous avez oubliez 'FinSi'
+Erreur Lexicale (ligne 13) : 'aze' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique | Ligne 13 | Vous avez oubliez 'FinSi'
+Erreur Lexicale (ligne 13) : 'aze' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique | Ligne 13 | Vous avez oubliez 'FinSi'
+Erreur Lexicale (ligne 13) : 'aze' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (ligne 13) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique (ligne 7) : Instruction inconnue ou incorrecte.
+Erreur Syntaxique | Ligne 3 | Variable declare sans affectation
+Erreur Syntaxique | Ligne 3 | Variable declare sans affectation
+Erreur Syntaxique | Ligne 3 | Variable declare sans affectation
+Erreur Syntaxique | Ligne 3 | Variable declare sans affectation
+Erreur Syntaxique (Ligne 3) Variable declare sans affectation
+Erreur Syntaxique (Ligne 3) Variable declare sans affectation
+Erreur Syntaxique (Ligne 3) Variable declare sans affectation
+Erreur semantique (Ligne 7) : Impossible d'affecter une valeur "Reel" a un "Entier". 
+
+Erreur semantique (Ligne 13) : Impossible d'affecter une valeur "Reel" a un "Entier". 
+
+Erreur Lexicale (Ligne 7) : 'B=A' n'existe pas dans le dictionnaire de la langue.
+Erreur Syntaxique (Ligne 7) : Instruction inconnue ou incorrecte.
+Err Semantique (Ligne 7) : Impossible d'affecter Reel (B) vers Entier (A).
+Err Semantique (Ligne 7) : Impossible d'affecter Reel (B) vers Entier (A).
+Erreur Lexicale (Ligne 4) : Mot inconnu dans le dictionnaire.
+Err Syntaxique (Ligne 4) : Contenu Lire/Ecrire invalide.
+Erreur Semantique (Ligne 7) : Impossible d'affecter Reel (B) vers Entier (A).
+Erreur Syntaxique (Ligne 22) : Instruction inconnue.
+Erreur Syntaxique (Ligne 22) : Instruction inconnue.
+Erreur Syntaxique (Ligne 15) : 'Sinon' sans 'Si'.
+Erreur Syntaxique (Ligne 10) : 'Alors' manquant.
+Erreur Syntaxique (Ligne 10) : 'Alors' manquant.
+Erreur Syntaxique (Ligne 9) : ')' manquant.
+Erreur Syntaxique (Ligne 9) : Comparant 2 invalide.
+Erreur Syntaxique (Ligne 23) : Le programme doit se terminer par 'Fin'.
+Erreur Syntaxique (Ligne 6) : ')' manquant.
