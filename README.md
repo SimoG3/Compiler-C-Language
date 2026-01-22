@@ -59,7 +59,7 @@ The "intelligence" of the compiler. It ensures the code makes sense logically:
 ### Installation
 1. Clone the repository:
    ```pascal
-   git clone [https://github.com/SimoG3/Compiler-C-Language.git]
+   git clone [https://github.com/SimoG3/Compiler-C-Language.git] (git@github.com:SimoG3/Compiler-C-Language.git)
    ```
 2. Navigate to the folder and compile:
    ```pascal
